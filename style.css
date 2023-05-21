@@ -1,0 +1,198 @@
+.container{
+    width: 100%;
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+.FastDelivery{
+    display: flex;
+}
+.box{
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.box h1 span{
+    color: #FFAE00;
+   
+}
+.box h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 70px;
+}
+.box a{
+    cursor: pointer;
+    line-height: 30px;
+}
+.box a:hover{
+    color: blueviolet;
+}
+
+.social{
+    margin-top: 170px;
+    margin-left: -10px;
+}
+
+.box ul li a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* 1 first box */
+
+
+
+.box-2{
+    position: relative;
+}
+.first{
+    border-radius: 5px;
+    left: 10px;
+    top: 440px;
+    position: absolute;
+}
+
+.second{
+    border-radius: 5px;
+    left: 80px;
+    top: 440px;
+    position: absolute;
+}
+.btn{
+    width: 200px;
+    height: 50px;
+    background-color: #FFAE00;
+    color: white;
+    border: none;
+    border-radius: 0 0 90px 0;
+    position: absolute;
+    top: 400px;
+    left: 270px;
+    cursor: pointer;
+}
+.third{
+    position: absolute;
+    top: 480px;
+    left: 400px;
+}
+.fourth{
+    position: absolute;
+    top: 480px;
+    left: 440px;
+}
+
+
+
+
+
+
+
+
+/* 3 box */
+
+
+.box-3{
+    margin-top: 20px;
+    width: 35%;
+    margin-left: 125px;
+}
+
+.login{
+    text-align: right;
+}
+.title{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.main{
+    width: 300px;
+    margin: 0 auto;
+}
+
+.Provide ul{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid lightgray;
+}
+.Provide a:hover{
+    color: blue;
+    border-bottom: 3px solid blue;
+}
+
+.but{
+    display: flex;
+    justify-content: space-between  ;
+    margin-bottom: 20px;
+}
+
+.Firs__btn{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+   background-color: #4832DC; 
+   border: none;
+   border-radius: 5px;
+   width: 130px;
+   padding: 10px;
+   cursor: pointer;
+   
+}
+
+.Firs__btn img{
+    margin-right: 15px ;
+}
+.Second__btn img{
+    margin-right: 15px ;
+}
+.Second__btn{
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    width: 130px;
+    background-color: #ECECF1;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+input{
+    width: 100%;
+    border-radius: 4px;
+    border: none;
+    outline: none;
+    background-color: #F3F3F3;
+    height: 40px;
+    padding: 5px;
+    margin-top: 10px;
+}
+h4{
+    margin-top: 23px;
+    text-align: center;
+    color: #4832DC;
+}
+
+
+.border__car{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+    margin-left: 30px;
+}
+
+
+.box__1{
+    border-bottom: 3px solid #FFAE00;
+}
+.white{
+    color: white;
+}
+
+.move{
+    position: absolute;
+    right: -10px;
+    top: -80px;
+}
